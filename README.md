@@ -6,8 +6,10 @@ The backend for this project was written in NodeJS and ran through Amazon Web Se
 
 Huge thanks to Startup Edmonton for giving us resources to develop our idea and work on it in their offices throughout the summer. Check them out at http://www.startupedmonton.com/. Also thank you to the developers who helped where they could to bring this app and project to life, Andy Yip, Tyler Arsenault @TylerA73, Christian Ellinger @skwidz, Jayden Laturnus @JJJados.
 
-Demonstrating initial user signup/login
-https://youtu.be/mzflvDXl5lE
+
+
+
+[Demonstrating initial user signup/login](https://youtu.be/mzflvDXl5lE)
 
 Demonstrating 
 ![](vid2.gif)
