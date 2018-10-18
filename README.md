@@ -11,6 +11,6 @@ Huge thanks to Startup Edmonton for giving us resources to develop our idea and 
 
 [Demonstrating initial user signup/login](https://youtu.be/mzflvDXl5lE)
 
-Demonstrating 
-![](vid2.gif)
-![](vid3.gif)
+[Demonstrating post selection/chat](https://youtu.be/pDTPLMz6f7I)
+
+[Demonstrating post appraising](https://youtu.be/RAdV3-gh3bQ)
